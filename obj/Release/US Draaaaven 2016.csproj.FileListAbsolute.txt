@@ -1,0 +1,11 @@
+C:\Users\Alexis\Desktop\ezbit\US Draaaaven 2016\bin\Release\EloBuddy.exe.config
+C:\Users\Alexis\Desktop\ezbit\US Draaaaven 2016\bin\Release\EloBuddy.exe
+C:\Users\Alexis\Desktop\ezbit\US Draaaaven 2016\bin\Release\EloBuddy.pdb
+C:\Users\Alexis\Desktop\ezbit\US Draaaaven 2016\bin\Release\EloBuddy.dll
+C:\Users\Alexis\Desktop\ezbit\US Draaaaven 2016\bin\Release\EloBuddy.SDK.dll
+C:\Users\Alexis\Desktop\ezbit\US Draaaaven 2016\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Alexis\Desktop\ezbit\US Draaaaven 2016\bin\Release\SharpDX.dll
+C:\Users\Alexis\Desktop\ezbit\US Draaaaven 2016\bin\Release\Newtonsoft.Json.dll
+C:\Users\Alexis\Desktop\ezbit\US Draaaaven 2016\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Alexis\Desktop\ezbit\US Draaaaven 2016\obj\Release\EloBuddy.exe
+C:\Users\Alexis\Desktop\ezbit\US Draaaaven 2016\obj\Release\EloBuddy.pdb
